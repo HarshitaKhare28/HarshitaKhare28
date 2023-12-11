@@ -2,7 +2,7 @@
 - 🌱 I’m currently doing my BTech in computer science and engineering from Shri Ramdeobaba College of Engineering and Management. I am a 2nd Yr student and i have great interest in Web-devlopment.
   ## My Github Stats
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshitaKhare28&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HarshitaKhare28&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
+  
 <!--
 **HarshitaKhare28/HarshitaKhare28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
