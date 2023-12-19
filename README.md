@@ -1,5 +1,10 @@
 ## Hi there 👋
-- 🌱 I’m currently doing my BTech in computer science and engineering from Shri Ramdeobaba College of Engineering and Management. I am a 2nd Yr student and i have great interest in Web-devlopment.
+- 🌱 I am a passionate Computer Science Engineering (CSE) student currently in my second year, driven by a fascination for the world of web development. Proficient in languages such as C, Java, and Python, I am actively expanding my skills by delving into PHP and Laravel to enhance my expertise in crafting robust and dynamic web applications.
+My journey into the realm of coding began with a curiosity for programming languages, and it has evolved into a dedicated pursuit to create meaningful and efficient web solutions. I am enthusiastic about leveraging my knowledge to contribute to innovative projects and embrace the ever-evolving landscape of technology.
+## Skills and Expertise
+### Programming Languages: C, Java, Python
+### Ongoing Learning: PHP, Laravel
+### Interest Area: Web Development
   ## My Github Stats
  ![HarshitaKhare28's Stats](https://github-readme-stats.vercel.app/api?username=HarshitaKhare28&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
  ![HarshitaKhare28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKhare28&theme=highcontrast&hide_border=true)
