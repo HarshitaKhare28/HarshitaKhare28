@@ -4,8 +4,8 @@ My journey into the realm of coding began with a curiosity for programming langu
 
 ## Skills and Expertise ✨:
   1. Programming Languages: 
-    #### C, Java, Python,PHP,C++
-    #### Capable of solving challenging problems and developing complex applications.
+     #### C, Java, Python,PHP,C++
+     #### Capable of solving challenging problems and developing complex applications.
   2. Ongoing Learning: 
      #### MERN stack development.
      #### Design and analysis of algorithms.
