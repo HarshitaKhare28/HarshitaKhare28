@@ -3,17 +3,12 @@
 My journey into the realm of coding began with a curiosity for programming languages, and it has evolved into a dedicated pursuit to create meaningful and efficient web solutions. I am enthusiastic about leveraging my knowledge to contribute to innovative projects and embrace the ever-evolving landscape of technology.
 
 ## Skills and Expertise ✨:
-  1. Programming Languages: 
-     #### C, Java, Python,PHP,C++
-     #### Capable of solving challenging problems and developing complex applications.
-  2. Ongoing Learning: 
-     #### MERN stack development.
-     #### Design and analysis of algorithms.
-     #### Aiming to become proficient in these.
-  2. Interest Area:  
-     #### Web Development,Competitive programming.
-     #### Passionate about creating user-friendly websites and web applications.
-     #### Excited to explore new technologies. 
+  ### Programming Languages: 
+     I am proficient in C, Java,C++,PHP and Python, with the ability to develop complex applications and solve challenging problems efficiently. My experience in these languages has honed my skills to tackle           various programming tasks effectively, making me adept at delivering high-quality solutions.
+  ### Ongoing Learning: 
+    Currently, I am focused on expanding my knowledge in Full Stack development by learning  MERN stack. These ongoing efforts are aimed at enhancing my web development capabilities, with the goal of becoming            proficient in these technologies. My interest in web development stems from a deep passion for creating interactive and user-friendly websites and web applications.
+  ### Interest Area:  
+     In addition to web development, I also have a keen interest in competitive coding. This interest reflects my enthusiasm for algorithmic problem-solving and honing my skills in writing efficient and optimized      code. I am excited about the challenges and learning opportunities that competitive coding offers, and I am eager to continue exploring this area to further develop my skills. 
 
   ## My Github Stats
  ![HarshitaKhare28's Stats](https://github-readme-stats.vercel.app/api?username=HarshitaKhare28&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
