@@ -1,12 +1,12 @@
 ## Hi there 👋
-- 🌱 I am Harshita Khare, a passionate Computer Science Engineering (CSE) student driven by a fascination for the world of web development. Proficient in languages such as C, Java, and Python, I am actively expanding my skills by delving into PHP and Laravel to enhance my expertise in crafting robust and dynamic web applications. I am enthusiastic about leveraging my knowledge to contribute to innovative projects and embrace the ever-evolving landscape of technology.
+- I am Harshita Khare, a passionate Computer Science Engineering (CSE) student driven by a fascination for the world of web development. Proficient in languages such as C, Java, and Python, I am actively expanding my skills by delving into PHP and Laravel to enhance my expertise in crafting robust and dynamic web applications. I am enthusiastic about leveraging my knowledge to contribute to innovative projects and embrace the ever-evolving landscape of technology.
 
 ## Skills and Expertise ✨:
-  ### Programming Languages: 
+  ### Programming Languages📫 : 
   I am proficient in C, Java,C++,PHP and Python, with the ability to develop complex applications and solve challenging problems efficiently. My experience in these languages has honed my skills to tackle           various programming tasks effectively, making me adept at delivering high-quality solutions.
-  ### Interest Area:  
+  ### Interest Area 🚀 :  
   In addition to web development, I also have a keen interest in competitive coding. This interest reflects my enthusiasm for algorithmic problem-solving and honing my skills in writing efficient and optimized      code. I am excited about the challenges and learning opportunities that competitive coding offers, and I am eager to continue exploring this area to further develop my skills. 
-  ## Languages Used
+  ## Languages Used🌱
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  ## My Github Stats
+  ## My Github Stats🌱
  ![HarshitaKhare28's Stats](https://github-readme-stats.vercel.app/api?username=HarshitaKhare28&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
  ![HarshitaKhare28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKhare28&theme=highcontrast&hide_border=true)
  ![HarshitaKhare28's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaKhare28&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
