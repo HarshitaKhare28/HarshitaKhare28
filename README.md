@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'm Harshita Khare, a passionate Computer Science Engineering (CSE) student with a fascination for web development. Proficient in C, Java, and Python, I'm actively learning PHP and Laravel to enhance my skills in crafting robust web applications. I'm eager to contribute to innovative projects and embrace the evolving landscape of technology.
+I'm Harshita Khare, a passionate Computer Science Engineering (CSE) student with a fascination for web development. Proficient in C, Java, and Python, I'm actively learning PHP and Laravel to enhance my skills in crafting robust web applications. I'm eager to contribute to innovative projects and embrace the evolving landscape of technology.
 
 ## Skills and Expertise ✨:
   ### Programming Languages📫 : 
