@@ -18,8 +18,7 @@ I'm Harshita Khare, a passionate Computer Science Engineering (CSE) student with
 
   ## My Github Stats
  ![HarshitaKhare28's Stats](https://github-readme-stats.vercel.app/api?username=HarshitaKhare28&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
- ![HarshitaKhare28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitaKhare28&theme=highcontrast&hide_border=true)
- ![HarshitaKhare28's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaKhare28&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **HarshitaKhare28/HarshitaKhare28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
