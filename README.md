@@ -24,3 +24,5 @@ Beyond development, I have a keen interest in **researching new technologies, op
 ## 📫 Connect With Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.harshitakhare.co/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-khare-a5152625a/)  
+
+## ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4&style=for-the-badge)
