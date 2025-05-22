@@ -1,5 +1,6 @@
-## Hi there 👋  
-I'm **Harshita Khare**, a **Computer Science Engineering (CSE) student** at **Shri Ramdeobaba College of Engineering and Management**. Passionate about **software development, web technologies, and research**, I have hands-on experience in **full-stack development, real-time systems, and data analysis**. I continuously explore emerging technologies and enjoy working on innovative solutions.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61D2&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harshita+Khare;A+passionate+Full-Stack+Developer;Always+learning+something+new!" alt="Typing SVG" />
+</p>
 
 ### 🚀 Skills & Expertise  
 - **Programming Languages:** C, C++, Java, Python  
@@ -38,7 +39,7 @@ Beyond development, I have a keen interest in **researching new technologies, op
 
 
 ## 📊 GitHub Stats  
-![HarshitaKhare28's Stats](https://github-readme-stats.vercel.app/api?username=HarshitaKhare28&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)  
+![HarshitaKhare28's Stats](https://github-readme-stats.vercel.app/api?username=HarshitaKhare28&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
 
 ## 📫 Connect With Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.harshitakhare.co/)  
