@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61D2&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harshita+Khare;A+passionate+Full-Stack+Developer;Always+learning+something+new!" alt="Typing SVG" />
 </p> 
 
-## About Me
+## 👩‍💻 About Me
 Hi, I'm Harshita Khare, a CSE student passionate about backend development, cloud computing, and intelligent systems. I’ve worked with Spring Boot, Flask, and AWS, and have experience in full-stack development, REST APIs, and real-time applications. I also explore machine learning, NLP, and data analysis using tools like TensorFlow, NLTK, and Pandas. My projects and hackathon wins reflect a hands-on, problem-solving approach backed by skills in C++, Java, Python, and SQL.
 
 ## 🏆 Achievements  
