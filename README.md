@@ -1,16 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF61D2&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harshita+Khare;A+passionate+Full-Stack+Developer;Always+learning+something+new!" alt="Typing SVG" />
-</p>
+</p> 
 
-### 🚀 Skills & Expertise  
-- **Programming Languages:** C, C++, Java, Python  
-- **Software Development:** Full-Stack Development, System Design, Data Analysis  
-- **Web Technologies:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Firebase, RESTful APIs  
-- **Data Structures & Algorithms:** Problem-solving, Algorithm Optimization, Graph Theory, Dynamic Programming  
-- **Research & Innovation:** AI & Machine Learning Applications, Real-time Systems, Security Solutions  
-
-### 💡 Interest Areas  
-Beyond development, I have a keen interest in **researching new technologies, optimizing software performance, and exploring AI-driven solutions**. I also enjoy **problem-solving through competitive programming** and working on **scalable software architectures**.  
+## About Me
+Hi, I'm Harshita Khare, a CSE student passionate about backend development, cloud computing, and intelligent systems. I’ve worked with Spring Boot, Flask, and AWS, and have experience in full-stack development, REST APIs, and real-time applications. I also explore machine learning, NLP, and data analysis using tools like TensorFlow, NLTK, and Pandas. My projects and hackathon wins reflect a hands-on, problem-solving approach backed by skills in C++, Java, Python, and SQL.
 
 ## 🏆 Achievements  
 - **Recieved consolation prize at Project Innovation Contest (PIC) 2025** (Ranked **5th out of 33 teams**) for **SmartGuard**, a real-time personnel tracking system.  
