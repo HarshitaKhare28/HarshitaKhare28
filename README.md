@@ -35,7 +35,7 @@ Hi, I'm Harshita Khare, a CSE student passionate about backend development, clou
 ![HarshitaKhare28's Stats](https://github-readme-stats.vercel.app/api?username=HarshitaKhare28&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
 
 ## 📫 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.harshitakhare.co/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-alpha-swart-16.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-khare-a5152625a/)  
 
 ## ![](https://komarev.com/ghpvc/?username=HarshitaKhare28&color=ff69b4&style=for-the-badge)
